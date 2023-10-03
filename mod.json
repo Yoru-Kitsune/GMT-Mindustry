@@ -1,0 +1,10 @@
+name: "gmt-trm"
+displayName: "German: Mod Translations"
+subtitle: "DevBuild: 0.0.3"
+description: "This Mod adds german translations for other mods\n\nList of supported mods:\n - extended UI (v0.78)\n - Mapping Utilities (v0.16)\n - Power Sources Mod (v0.6)\n - Testing Utilities (WIP)"
+author: "Yoru Kitsune"
+version: "0.0.3.db"
+minGameVersion: "145"
+repo: Yoru-Kitsune/gmt-mindustry
+dependencies: []
+hidden: true
